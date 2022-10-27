@@ -1,0 +1,30 @@
+.row{
+    padding: 20px;
+    font-family: 'Roboto Mono', monospace;
+}
+div{
+    background-color: #C2CAE8;
+}
+h1 {
+    display: inline;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    font-size: 30px;
+}
+h2{
+    display: inline;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    font-size: 27px;
+}
+
+h3{
+    display: inline;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 27px;
+}
+p{
+    display: inline;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 23px;
+}
