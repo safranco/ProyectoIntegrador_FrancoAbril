@@ -21,7 +21,7 @@ h1{
         border-radius: 100%;
         box-shadow: 3px 3px 3px #FCC5DF;
         left: 3%;
-        top:550px;
+        top: 600px;
     }
 }
 @media (max-width: 576px){
