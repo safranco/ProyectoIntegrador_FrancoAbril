@@ -1,6 +1,6 @@
 .row{
     padding: 20px;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Mono', 'monospace' ;
 }
 div{
     background-color: #C2CAE8;
@@ -19,25 +19,24 @@ h1{
         position: absolute;
         width: 15%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 3px 3px 3px #FCC5DF;
         left: 3%;
-        top: 600px;
+        top:550px;
     }
 }
-@media (max-width: 575px){
+@media (max-width: 576px){
     #fotodeperfil{
-        position: absolute;
-        width: 35%;
+        width: 30%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 3px 3px 3px #FCC5DF;
         left: 33%;
-        top: 950px;
+        top:950px;
     }
 }
+
 /*etiqueta nombre*/
 #nombre{
     font-weight: bold;
     margin-top: 30%;
-    font-size: 20px;
+    font-size:20px;
 }
-
